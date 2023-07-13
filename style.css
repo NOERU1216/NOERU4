@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+.header{
+    color: lightseagreen;
+    background-color: rgb(70, 192, 192);
+    height: 90px;
+}
+.header-list{
+    float: right;
+    font-size: 20px;
+    padding: 0px 35px;
+}
+
+li{
+    list-style:none;
+    float:left;
+    font-family: 'Kanit', sans-serif;
+    padding: 12px 30px;
+    color: rgb(207, 255, 238);
+}
+.header-logo{
+    font-size:30px;
+    float:left;
+    font-family: 'Russo One', sans-serif;
+    padding: 30px 30px;
+    color: rgb(207, 255, 238);
+}
+
+
+
+
+.copy-container{
+    font-size: 40px;
+    font-family: 'Merriweather', serif;
+    padding: 30px 50px;
+    color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main{
+    background-image: url(C:\Users\midor\OneDrive\デスクトップ\Website\ginn.png);
+}
+
+.contents{
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    padding: 30px 50px;
+    color: darkcyan
+    
+}
+
+.a href{
+    display: center;
+}
+
+input textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font: size 18px;
+    boder: 1px solid #dee7de;
+}
+
+.contact-submit{
+    background-color:darkcyan ;
+    color:rgb(207, 255, 238) ;
+}
+
+.footer{
+    background-color: rgb(70, 192, 192);
+    height: 90px;
+}
+
+.footer-logo{
+    font-size:30px;
+    float:left;
+    font-family: 'Russo One', sans-serif;
+    padding: 23px 30px;
+    color: rgb(207, 255, 238);
+}
+
+hr{
+    background-color:darkcyan
+}
+
+.h3{
+    text-align: center;
+}
+
